@@ -1,0 +1,163 @@
+<style>
+    body{
+        background-color:#fff;
+        background-image: url(http://s3-us-west-2.amazonaws.com/nationalvoterregistrationday/wp-content/uploads/2015/06/light-bg-1.jpg);
+        background-attachment:fixed;
+        background-size:cover;
+        }
+     #cpPremiumHeader{
+        margin:0 auto;
+        padding:5px;
+        border:0;
+        background-color:#80d7fc;
+        position:relative;
+        width:100%;
+        z-index:2;
+        }
+    #cpWrapper{
+        padding:0;
+        }
+    #shopContainer{
+        background:#bebebe;
+        width:1000px;
+        margin:50px auto;
+        padding:0;
+        }    
+    #shopBorder{
+        border:0;
+        }
+    #shopWrapper{
+        background-color:#ffffff;
+        margin:0px auto;
+        padding:30px 20px;
+        }
+    #shopHeader{
+        background-color:#06b2fd;
+        position:relative;
+        width:100%;
+        }
+    .bodyText a{
+        text-decoration:none;
+        }
+    .center
+        {
+        margin:auto;
+        width:50%;
+        }
+    .smallsidebartext a{
+        font-family:Verdana,Arial,Geneva,Helvetica,sans-serif;
+        font-size: 12px;
+        text-decoration:none;
+        }
+    #sidebarContent {
+        
+        padding: 30px 5px 5px;
+        position: relative;
+        }
+    #sidebarContent table {
+        width:auto;
+        }
+    #sidebarContentTD {
+        min-width:200px;
+        }
+    #shopCollection{
+        font-family:'Bree Serif',Georgia,"Times New Roman",Times,serif;
+        font-size:19px;
+        font-weight:bold;
+        color:#000;
+        left: 7px;
+        position: absolute;
+        top: 0;
+        }
+    .promoBox{
+        margin-top:50px;
+        }
+    .sidebarbg {
+        border-right: 1px dashed #fd0011;
+        }
+    #shopName{
+        font-family:'Bree Serif',Georgia,"Times New Roman",Times,serif;
+        font-size:36px;
+        color:#fff;
+        margin:auto;
+        width:960px;
+        padding:15px;
+        display:flex;
+        justify-content: flex-start;
+        align-items: center;
+        }
+    #topNav{
+        background-color:#ffffff;
+        font-size:14px;
+        color:#ca9126;
+        padding:7px;
+        text-align:center;
+    display:none;
+        }
+    #topNav ul, #topNav ul li{
+        margin:0;
+        padding:0;
+        list-style:none;
+        float:left;
+        }
+    #topNav ul li a{
+        display:block;
+        padding:5px 9px;
+        border-right:1px solid #dbcc90;
+        line-height:100%;
+        color:#ff6c00;
+        text-transform:uppercase;
+        text-decoration:none;
+        }
+    #topNav ul li a.last{
+        border:none;
+        }
+    #searchFormContainer{
+        width:225px;
+        float:right;
+        }
+    #submitSearch{
+        float:right;
+        }
+    #searchTerm{
+        float:left;
+        width:164px;
+        height:18px;
+        padding:3px;
+        }
+
+
+#intlCurrencyPrem a div#intlArrowDown{
+    background:none;
+    width:0;
+    height:0;
+    position:absolute;
+    top:3px;
+    right:8px;
+    border-left: 5px solid transparent;
+    border-right: 5px solid transparent;
+    border-top: 5px solid #000;
+}
+img.nvrd-logo{
+    width:100px;
+    height:100px;
+    position:absolute;
+    top:-7px;
+}
+#shopName span{
+    margin-left:130px;
+}
+.smallsidebartext a:hover {
+    color:#06b2fd;
+}
+#cafepressFooter{
+    background-color:#555;
+    padding: 50px 0;
+    margin:0;
+    color:#fff;
+    width:100%;
+    display:flex;
+    justify-content:center;
+}
+</style>
+<link rel="stylesheet" id="et-builder-googlefonts-css" href="https://fonts.googleapis.com/css?family=Bree+Serif:400|Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800&amp;subset=latin,latin-ext,cyrillic-ext,greek-ext,greek,vietnamese,cyrillic" type="text/css" media="all">
